@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== How Green Are You? ===
 Contributors: Paul de la Warr
 Donate link: http://example.com/
 Tags: widget, green, 125 x 125, sidebar, stats, posts, comments, advertising
