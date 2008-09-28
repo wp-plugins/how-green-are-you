@@ -35,8 +35,8 @@ Installation:
 
 1. Download the rar file and extract the contents.
 2. Upload the 'greenPaper' folder to your plugins directory (wp-content/plugins/).
-3. Activate the plugin through the ‘plugins' page in WP.
-4. Then in the ‘widgets' page in WP click the add button, and drag where you want the widget to be placed. Then click save changes.
+3. Activate the plugin through the 'plugins' page in WP.
+4. Then in the 'widgets' page in WP click the add button, and drag where you want the widget to be placed. Then click save changes.
 
 Alternatively if you want more options for placement of the widget, you can place this include statement in your theme's files(assuming you are not using sub-domains, if you are you may have to modify the URI path).
 
