@@ -40,7 +40,7 @@ Installation:
 
 Alternatively if you want more options for placement of the widget, you can place this include statement in your theme's files(assuming you are not using sub-domains, if you are you may have to modify the URI path).
 
-<?php include('wp-content/plugins/greenPaper/greenPaper.php'); ?>
+`<?php include('wp-content/plugins/greenPaper/greenPaper.php'); ?>`
 
 == Screenshots ==
 
