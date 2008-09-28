@@ -9,7 +9,6 @@ Stable tag: trunk
 This widget will total up your posts and comments and work out in pounds(lb) how much paper you have saved by writing online.
 
 == Description ==
-
 Announcing: The All New GreenExperience.net Green Widget!
 
 So, chances are pretty good that if you're reading this, you're a fellow blogger. One thing that you may or may not be aware of is that by blogging on a regular basis, you're actually helping the environment tremendously! 
@@ -30,7 +29,6 @@ So without further delay, why don't you download the latest and greatest in gree
 Never knew you were a tree-hugger, huh?
 
 == Installation ==
-
 Installation:
 
 1. Download the rar file and extract the contents.
@@ -43,6 +41,5 @@ Alternatively if you want more options for placement of the widget, you can plac
 `<?php include('wp-content/plugins/greenPaper/greenPaper.php'); ?>`
 
 == Screenshots ==
-
-screenshot-1.gif 1. Widget in action!
+1. Widget in action!
 
