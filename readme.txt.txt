@@ -42,6 +42,8 @@ Alternatively if you want more options for placement of the widget, you can plac
 
 <?php include('wp-content/plugins/greenPaper/greenPaper.php'); ?>
 
+== Frequently Asked Questions == 
+
 == Screenshots ==
 
 1. Screenshot of the widget in action!
