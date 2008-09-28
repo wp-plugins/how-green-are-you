@@ -44,5 +44,5 @@ Alternatively if you want more options for placement of the widget, you can plac
 
 == Screenshots ==
 
-1. Widget in action!
+screenshot-1.gif 1. Widget in action!
 
