@@ -40,6 +40,7 @@ Alternatively if you want more options for placement of the widget, you can plac
 
 `<?php include('wp-content/plugins/greenPaper/greenPaper.php'); ?>`
 
+In order for this widget to display properly on your website, your theme must be properly constructed (ending of tags etc). If you wish to check you can use the W3c's validator in this link: http://validator.w3.org/.
 == Screenshots ==
 1. Widget in action!
 
